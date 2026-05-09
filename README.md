@@ -29,3 +29,5 @@ This project was built to explore how AI and predictive maintenance can support 
 ## Screenshots
 
 ![App Screenshot](Screenshot.png)
+
+![App Screenshot](Screenshot2.png)
