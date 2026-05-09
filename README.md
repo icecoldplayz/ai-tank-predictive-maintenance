@@ -25,3 +25,7 @@ This project was built to explore how AI and predictive maintenance can support 
 - Improved corrosion modeling
 - Cloud deployment
 - Real time monitoring
+
+## Screenshots
+
+![App Screenshot](Screenshot.png)
